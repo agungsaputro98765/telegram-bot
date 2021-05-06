@@ -48,6 +48,10 @@ export const channels: Channel[] = [
     name: "Oon Arfiandwi (Django)",
     url: "https://www.youtube.com/channel/UCOGA5aJwf_9-E5cQ_Y95YaQ",
   },
+  {
+    name: "IndoKoding (Framework PHP Toko Online Lengkap Payment Gateway)",
+    url: "https://www.youtube.com/c/IndoKoding/playlists",
+  },
 ];
 
 export const ytChannelsMessage = (): string => {
